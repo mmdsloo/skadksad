@@ -55,7 +55,7 @@
         "172.16.0.2/32",
         "2606:4700:110:85ea:fcdc:43b6:e2c8:be8d/128"
       ],
-      "private_key": "qPhcqylytozoxERhUy4PZ/aJWk9JzcuLgvGnG6R4Sn8=",
+      "private_key": "UAhJJeerXtyCkvKcF49NxsBpTmvuyUHiVqrd1dFEp2c=",
       "server": "162.159.193.10",
       "server_port": 2408,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
@@ -75,7 +75,7 @@
         "172.16.0.2/32",
         "2606:4700:110:8e4d:2209:c9a3:f9e1:5035/128"
       ],
-      "private_key": "qMAKegKT7/gNtvE3oFabZMV2bLjQkGaJX1pkqu2YUWw=",
+      "private_key": "UAhJJeerXtyCkvKcF49NxsBpTmvuyUHiVqrd1dFEp2c=",
       "server": "162.159.193.10",
       "server_port": 2408,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
