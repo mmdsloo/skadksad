@@ -53,13 +53,17 @@
       "tag": "IP-> Your IP address",
       "local_address": [
         "172.16.0.2/32",
-        "[ipv6]"
+        "2606:4700:110:85ea:fcdc:43b6:e2c8:be8d/128"
       ],
-      "private_key": "[private_key]",
-      "server": "ip",
-      "server_port": ["port"],
+      "private_key": "qPhcqylytozoxERhUy4PZ/aJWk9JzcuLgvGnG6R4Sn8=",
+      "server": "162.159.193.10",
+      "server_port": 2408,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": ["reserved"],
+      "reserved": [
+        83,
+        80,
+        200
+      ],
       "mtu": 1280,
       "fake_packets": "5-10"
     },
@@ -69,13 +73,17 @@
       "detour": "IP-> Your IP address",
       "local_address": [
         "172.16.0.2/32",
-        "ipv6"
+        "2606:4700:110:8e4d:2209:c9a3:f9e1:5035/128"
       ],
-      "private_key": "private",
-      "server": "[ip]",
-      "server_port": ["port"],
+      "private_key": "qMAKegKT7/gNtvE3oFabZMV2bLjQkGaJX1pkqu2YUWw=",
+      "server": "162.159.193.10",
+      "server_port": 2408,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": ["reserved"],
+      "reserved": [
+        185,
+        168,
+        244
+      ],
       "mtu": 1280,
       "fake_packets": "5-10"
     },
